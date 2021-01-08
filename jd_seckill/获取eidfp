@@ -1,0 +1,5 @@
+获取eidfp
+var eid = $('#eid').val();
+var fp = $('#fp').val();
+
+console.log(`eid = ${eid}\nfp = ${fp}\n`);
